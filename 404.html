@@ -1,0 +1,56 @@
+<!--ｇｉｔｈｕｂ404ページサンプルコード-->
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <script>
+      sessionStorage.redirect = location.href;
+    </script>
+    <meta http-equiv="refresh" content="0;URL='/<repo name>/'" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>NotFound</title>
+  </head>
+  <body>
+<h2>ここには何もありません。あるのは虚しさだけです。= There is nothing here. There is only emptiness.</h2>
+<p>404erro</p>
+</body>
+<p>
+*献立
+-<a href="https://itou332.github.io/top_page/">主項目</a>
+-<a href="https://itou332.github.io/">1項目</a>
+-<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
+-<a href="https://itou332.github.io/diary">3項目</a>
+-<a href="https://itou332.github.io/today/">4項目</a>
+-<a href="https://itou332.github.io/challenge/">5項目</a>
+-<a href="https://itou332.github.io/nontitle/">6項目</a>
+-<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
+-<a href="https://github.com/itou332">my github</a>
+-<a href="http://itou33good.starfree.jp/">itou</a>
+</p>
+</html>
+
+試行1：404ページをハッキングします。
+
+私と同じ問題を解決しようとしている別の人をオンラインで見つけました。 彼のブログ投稿は 見ることができ ここで ます 。 私はそれが問題のかなり厄介な解決策であることを認めますが、実装も簡単でした。 GitHubがより良い解決策を思い付くまで、これはかなりまともな回避策です。
+
+このソリューションは、GHページでカスタム404ページを使用できるという事実に基づいています。 あなたがしなければならないのは追加することです 404.htmlリポジトリへのページ。 上記のリンクに従って、私は作成しました 404.html次の行で <head>:
+
+<script>
+  sessionStorage.redirect = location.href;
+</script>
+<meta http-equiv="refresh" content="0;URL='/'"></meta>
+
+基本的に、これは要求されたURLをブラウザのストレージに保存し、サイトのルートに戻って起動するだけです。 明らかに、それだけでは十分ではありません。 誰かがこのブログ投稿へのリンクをクリックした場合、私はそれらがホームページに送信されることを望まないでしょう。 次のステップも同様に簡単でした。 基本的に別のスクリプトを追加しました index.html保存されたURLを確認し、存在する場合はリダイレクトします。
+
+<script>
+  (function(){
+    var redirect = sessionStorage.redirect;
+    delete sessionStorage.redirect;
+    if (redirect && redirect != location.href) {
+      history.replaceState(null, null, redirect);
+    }
+  })();
+</script>
+
+これは驚くほどうまくいきました。 ただし、ブログ投稿にOpen GraphとTwitterのメタタグを実装することを決定すると、スクレーパーがリダイレクトに従わなかったためにバラバラになりました。 ただし、メタタグを必要としない単純なサイトがある場合は、これでうまくいく可能性があります。 
