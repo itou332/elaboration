@@ -28,6 +28,7 @@ lang: ja_JP
 </p>
 </hedar>
 <head>
+<meta http-equiv="Content-Type"content="text/html;charset=utf-8">
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-REM6WSLP19"></script>
 <script>
@@ -70,8 +71,7 @@ lang: ja_JP
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"[index.md](https://github.com/itou332/elaboration/files/8339451/index.md)
-
+     inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.69664703"
      inkscape:cx="-154.31057"
@@ -4693,7 +4693,7 @@ AAAAAAAAAAAAHzBE/w9EM+8NEPxdjAAAAABJRU5ErkJggg==
 </svg>
 
 <h3>2022.3/24</h3>
-<meta http-equiv="Content-Type"content="text/html;charset=utf-8">
+
    <canvas id="myCanvas" width="100" height="100"></canvas>
    <script>
    var canvas = document.getElementById('myCanvas');
