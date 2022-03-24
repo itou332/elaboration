@@ -70,7 +70,8 @@ lang: ja_JP
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
+     inkscape:document-units="mm"[index.md](https://github.com/itou332/elaboration/files/8339451/index.md)
+
      showgrid="false"
      inkscape:zoom="0.69664703"
      inkscape:cx="-154.31057"
