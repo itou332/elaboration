@@ -21,7 +21,7 @@ lang: ja_JP
 -<a href="https://itou332.github.io/today/">4項目</a>
 -<a href="https://itou332.github.io/challenge/">5項目</a>
 -<a href="https://itou332.github.io/nontitle/">6項目</a>
--<a href="https://itou332.github.io/elaboration/">7項目</a>
+-<a href="https://itou332.github.io/">7項目</a>
 -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
@@ -4691,6 +4691,48 @@ AAAAAAAAAAAAHzBE/w9EM+8NEPxdjAAAAABJRU5ErkJggg==
   </g>
 </svg>
 
+<h3>2022.3/24</h3>
+<meta http-equiv="Content-Type"content="text/html;charset=utf-8">
+   <canvas id="myCanvas" width="100" height="100"></canvas>
+   <script>
+   var canvas = document.getElementById('myCanvas');
+   var context = canvas.getContext('2d');
+   
+   
+   for(var x=0;x<200;x++)
+   {
+           for(var y=0;y<200;y++)
+           {
+                   var i=-15;
+                   var cx=-2+x/50;
+                   var cy=-2+y/50;
+                   var zx=0.06;
+                   var zy=0.04; 
+                   var z =zx*zy*i                       
+   
+                   do
+                   {
+                           var xt=zx*zy;
+                           zx=zx*zx-zy*zy+cx;
+                           zy=2*xt+cy;
+                           i++;
+   
+                           
+                   }
+                   while(i<255&&(zx*zx+zy*zy)<4);
+   
+                   var color=i.toString(30);
+                   context.beginPath();
+                   context.rect(zx*x*3,(i*y+(z*zy*zy*i))*-2,(z*zy*zy*i)*30,i*i);
+                   context.fillStyle ='#'+10+color+color/2;
+                   context.fill();
+                   
+           }
+           
+   }
+   
+   </script>
+
 
 </body>
 <footer>
@@ -4703,7 +4745,7 @@ AAAAAAAAAAAAHzBE/w9EM+8NEPxdjAAAAABJRU5ErkJggg==
 -<a href="https://itou332.github.io/today/">4項目</a>
 -<a href="https://itou332.github.io/challenge/">5項目</a>
 -<a href="https://itou332.github.io/nontitle/">6項目</a>
--<a href="https://itou332.github.io/elaboration/">7項目</a>
+-<a href="https://itou332.github.io">7項目</a>
 -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
