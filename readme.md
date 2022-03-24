@@ -1,5 +1,4 @@
 ## elaboration
-~~~~~~~~~~~~~~~~~~~~~~~~~
 
 PCで描いた絵をここに記録します。<br>
 このサイトはダークモードにしたり、ブラウザーを変えると見え方が少し変わります。<br> 
@@ -10,8 +9,7 @@ The picture will also change depending on the specs of your PC or android. The p
 
 ----
 
-<h3>
-*献立
+## *献立
 -<a href="https://itou332.github.io/top_page/">主項目</a>
 -<a href="https://itou332.github.io/">1項目</a>
 -<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
@@ -23,4 +21,3 @@ The picture will also change depending on the specs of your PC or android. The p
 -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
-</h3>
