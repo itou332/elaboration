@@ -4694,7 +4694,7 @@ AAAAAAAAAAAAHzBE/w9EM+8NEPxdjAAAAABJRU5ErkJggg==
 
 <h3>2022.3/24</h3>
 
-   <canvas id="myCanvas" width="100" height="100"></canvas>
+   <canvas id="myCanvas" width="200" height="200"></canvas>
    <script>
    var canvas = document.getElementById('myCanvas');
    var context = canvas.getContext('2d');
@@ -4735,6 +4735,125 @@ AAAAAAAAAAAAHzBE/w9EM+8NEPxdjAAAAABJRU5ErkJggg==
    </script>
 
 
+<h3>2022.3.27</h3>
+
+<svg
+   width="92.82048mm"
+   height="90.96946mm"
+   viewBox="0 0 92.82048 90.96946"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="2022319.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.69664703"
+     inkscape:cx="175.84228"
+     inkscape:cy="287.08943"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-58.602761,-103.01527)">
+    <g
+       inkscape:label="trunc_cube:y30.50:x0.00:x0.00:y30.00:x20.00:x10.00"
+       transform="matrix(0.264583,0,0,0.264583,105.013,148.5)"
+       id="g2938">
+      <path
+         inkscape:label="Face:10"
+         style="fill:#002b6f;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-opacity:1"
+         d="M 54.7874,53.8295 54.8366,-46.1426 130.946,2.90659 Z"
+         id="path2910" />
+      <path
+         inkscape:label="Face:0"
+         style="fill:#0043ab;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-opacity:1"
+         d="m -98.2057,-118.693 89.67051,1.089 63.37179,71.4614 -0.0492,99.9721 -63.44144,69.9205 -89.67056,-1.089 -63.3714,-71.4606 0.049,-99.9721 z"
+         id="path2912" />
+      <path
+         inkscape:label="Face:11"
+         style="fill:#002b6f;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-opacity:1"
+         d="m -22.0473,-169.616 13.51211,52.012 -89.67051,-1.089 z"
+         id="path2914" />
+      <path
+         inkscape:label="Face:12"
+         style="fill:#004fc9;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-opacity:1"
+         d="m -22.2154,171.711 -76.1092,-49.05 89.67056,1.089 z"
+         id="path2916" />
+      <path
+         inkscape:label="Face:4"
+         style="fill:#00112c;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-opacity:1"
+         d="M 161.696,-51.2004 175.209,0.81156 130.946,2.90659 54.8366,-46.1426 -8.53519,-117.604 l -13.51211,-52.012 44.2627,-2.095 76.1092,49.05 z"
+         id="path2918" />
+      <path
+         inkscape:label="Face:2"
+         style="fill:#00317f;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-opacity:1"
+         d="M 98.2057,118.693 22.0473,169.616 -22.2154,171.711 -8.65404,123.75 54.7874,53.8295 130.946,2.90659 175.209,0.81156 161.647,48.7717 Z"
+         id="path2920" />
+      <path
+         inkscape:label="Face:13"
+         style="fill:#004fc9;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-opacity:1"
+         d="m -161.647,-48.7717 -0.049,99.9721 -13.513,-52.01196 z"
+         id="path2922" />
+      <path
+         inkscape:label="Face:6"
+         style="fill:#001435;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-opacity:1"
+         d="M 175.209,0.81156 161.696,-51.2004 161.647,48.7717 Z"
+         id="path2924" />
+      <path
+         inkscape:label="Face:3"
+         style="fill:#00327f;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-opacity:1"
+         d="m 8.65404,-123.75 13.56136,-47.961 -44.2627,2.095 -76.1584,50.923 -63.4413,69.9213 -13.562,47.96014 44.263,-2.09503 76.1586,-50.92291 z"
+         id="path2926" />
+      <path
+         inkscape:label="Face:5"
+         style="fill:#0052d2;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-opacity:1"
+         d="m -54.8366,46.1426 -76.1094,-49.04919 -44.263,2.09503 13.513,52.01196 63.3714,71.4606 76.1092,49.05 44.2627,-2.095 -13.51211,-52.012 z"
+         id="path2928" />
+      <path
+         inkscape:label="Face:7"
+         style="fill:#001435;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-opacity:1"
+         d="m 8.65404,-123.75 89.67056,1.089 -76.1092,-49.05 z"
+         id="path2930" />
+      <path
+         inkscape:label="Face:8"
+         style="fill:#00388f;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-opacity:1"
+         d="M 98.2057,118.693 8.53519,117.604 22.0473,169.616 Z"
+         id="path2932" />
+      <path
+         inkscape:label="Face:1"
+         style="fill:#002053;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-opacity:1"
+         d="M -54.7874,-53.8295 -54.8366,46.1426 8.53519,117.604 98.2057,118.693 161.647,48.7717 161.696,-51.2004 98.3246,-122.661 8.65404,-123.75 Z"
+         id="path2934" />
+      <path
+         inkscape:label="Face:9"
+         style="fill:#00388f;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linejoin:round;stroke-opacity:1"
+         d="m -130.946,-2.90659 76.1094,49.04919 0.0492,-99.9721 z"
+         id="path2936" />
+    </g>
+  </g>
+</svg>
+
+
 </body>
 <footer>
 <p>
@@ -4751,4 +4870,9 @@ AAAAAAAAAAAAHzBE/w9EM+8NEPxdjAAAAABJRU5ErkJggg==
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
 </p>
+ <svg xmlns="http://www.w3.org/2000/svg" width="200" height="250">
+                <text x="0" y="30" transform="rotate(45 40,40)">
+                © 2021 itou Inc.
+                </text>
+              </svg>
 </footer>
