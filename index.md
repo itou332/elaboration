@@ -28,7 +28,6 @@ lang: ja_JP
 </p>
 </hedar>
 <head>
-<meta http-equiv="Content-Type"content="text/html;charset=utf-8">
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-REM6WSLP19"></script>
 <script>
@@ -45,8 +44,19 @@ lang: ja_JP
 <link rel="apple-touch-icon" href="./images/favicon.png" sizes="180x180">
 <link rel="icon" type="image/png" href="./images/favicon.png" sizes="192x192">
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<meta charset="utf-8">
+<link rel="icon" href="images/favicon.svg" type="image/svg+xml">
+
 <meta name="keywords" content="painting record svg SVG 記録　itou">
 {% seo %}
+
+rel=”alternate” hreflang=”bh”
+rel=”alternate” hreflang=”eng”
+rel=”alternate” hreflang=”gle”
+rel=”alternate” hreflang=”sq”
+rel=”alternate” hreflang=”zh”
+
+<meta name="google-site-verification" content="tQGwmktjW1w-gKuPF7mYbIZdiE9Bw_KZj8tHcro6qo0" />
 </head>
 <body>
 <h3>2022.3/19</h3>
