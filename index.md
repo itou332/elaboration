@@ -34,7 +34,6 @@ lang: ja_JP
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-YWDRL1ZXBE');
 </script>
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
@@ -46,16 +45,13 @@ lang: ja_JP
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <meta charset="utf-8">
 <link rel="icon" href="images/favicon.svg" type="image/svg+xml">
-
 <meta name="keywords" content="painting record svg SVG 記録　itou">
 {% seo %}
-
-rel=”alternate” hreflang=”bh”
+<!--rel=”alternate” hreflang=”bh”
 rel=”alternate” hreflang=”eng”
 rel=”alternate” hreflang=”gle”
 rel=”alternate” hreflang=”sq”
-rel=”alternate” hreflang=”zh”
-
+rel=”alternate” hreflang=”zh”-->
 <meta name="google-site-verification" content="tQGwmktjW1w-gKuPF7mYbIZdiE9Bw_KZj8tHcro6qo0" />
 </head>
 <body>
