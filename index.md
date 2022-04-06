@@ -36,11 +36,6 @@ lang: ja_JP
   gtag('js', new Date());
   gtag('config', 'G-YWDRL1ZXBE');
 </script>
-<!--rel=”alternate” hreflang=”bh”
-rel=”alternate” hreflang=”eng”
-rel=”alternate” hreflang=”gle”
-rel=”alternate” hreflang=”sq”
-rel=”alternate” hreflang=”zh”-->
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <!-- Favicon head tag -->
