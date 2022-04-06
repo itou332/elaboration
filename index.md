@@ -36,6 +36,11 @@ lang: ja_JP
   gtag('js', new Date());
   gtag('config', 'G-YWDRL1ZXBE');
 </script>
+<!--rel=”alternate” hreflang=”bh”
+rel=”alternate” hreflang=”eng”
+rel=”alternate” hreflang=”gle”
+rel=”alternate” hreflang=”sq”
+rel=”alternate” hreflang=”zh”-->
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <!-- Favicon head tag -->
@@ -47,11 +52,6 @@ lang: ja_JP
 <link rel="icon" href="images/favicon.svg" type="image/svg+xml">
 <meta name="keywords" content="painting record svg SVG 記録　itou">
 {% seo %}
-<!--rel=”alternate” hreflang=”bh”
-rel=”alternate” hreflang=”eng”
-rel=”alternate” hreflang=”gle”
-rel=”alternate” hreflang=”sq”
-rel=”alternate” hreflang=”zh”-->
 <meta name="google-site-verification" content="tQGwmktjW1w-gKuPF7mYbIZdiE9Bw_KZj8tHcro6qo0" />
 </head>
 <body>
