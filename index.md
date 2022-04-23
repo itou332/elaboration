@@ -23,6 +23,7 @@ lang: ja_JP
 -<a href="https://itou332.github.io/nontitle/">6項目</a>
 -<a href="https://itou332.github.io/elaboration/">7項目</a>
 -<a href="https://itou332.github.io/analog/">8項目</a>
+-<a href="https://itou332.github.io/culture/">9項目</a>
 -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
@@ -17581,7 +17582,6 @@ ImI/mPTZHdzbl/jScERERETE9XJlievKjy8xLU1shvvc538BdVc269dID38AAAAASUVORK5CYII=
 </body>
 <footer>
 <p>
-<p>
 *献立
 -<a href="https://itou332.github.io/top_page/">主項目</a>
 -<a href="https://itou332.github.io/">1項目</a>
@@ -17592,10 +17592,10 @@ ImI/mPTZHdzbl/jScERERETE9XJlievKjy8xLU1shvvc538BdVc269dID38AAAAASUVORK5CYII=
 -<a href="https://itou332.github.io/nontitle/">6項目</a>
 -<a href="https://itou332.github.io/elaboration/">7項目</a>
 -<a href="https://itou332.github.io/analog/">8項目</a>
+-<a href="https://itou332.github.io/culture/">9項目</a>
 -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
-</p>
 </p>
  <svg xmlns="http://www.w3.org/2000/svg" width="200" height="250">
                 <text x="0" y="30" transform="rotate(45 40,40)">
