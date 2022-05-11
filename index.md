@@ -24,6 +24,7 @@ lang: ja_JP
 -<a href="https://itou332.github.io/elaboration/">7項目</a>
 -<a href="https://itou332.github.io/analog/">8項目</a>
 -<a href="https://itou332.github.io/culture/">9項目</a>
+-<a href="https://itou332.github.io/walk/">10項目</a>
 -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
@@ -47,7 +48,7 @@ lang: ja_JP
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <meta charset="utf-8">
 <link rel="icon" href="images/favicon.svg" type="image/svg+xml">
-<meta name="keywords" content="painting record svg SVG 記録　itou">
+<meta name="keywords" content="painting record svg SVG 記録 itou git">
 {% seo %}
 <meta name="google-site-verification" content="tQGwmktjW1w-gKuPF7mYbIZdiE9Bw_KZj8tHcro6qo0" />
 </head>
@@ -17593,6 +17594,7 @@ ImI/mPTZHdzbl/jScERERETE9XJlievKjy8xLU1shvvc538BdVc269dID38AAAAASUVORK5CYII=
 -<a href="https://itou332.github.io/elaboration/">7項目</a>
 -<a href="https://itou332.github.io/analog/">8項目</a>
 -<a href="https://itou332.github.io/culture/">9項目</a>
+-<a href="https://itou332.github.io/walk/">10項目</a>
 -<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
