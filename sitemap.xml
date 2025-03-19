@@ -3,6 +3,12 @@
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <url>
+    <loc>https://elaboration.pages.dev/</loc>
+    <lastmod>2025-3-19</lastmod>
+    <priority>0.80</priority>
+  </url>
   <url>
     <loc>https://itou332.github.io/top_page/</loc>
     <lastmod>2024-12-24</lastmod>
